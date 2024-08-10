@@ -36,7 +36,3 @@ Learn HTML, CSS. and JavaScript to create modern, responsive websites in just 12
 ### 🔗 Get Started
 
 Ready to start your journey? [Click here](http://lms.line.pm/courses-details.php?c_id=1) to enroll in the Web Design Mastery Course and unlock your potential!
-
----
-
-Feel free to modify the details according to your specific course information or additional features you might want to highlight.
